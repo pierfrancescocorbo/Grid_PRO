@@ -2,8 +2,8 @@
 ![Copertina YT](https://github.com/user-attachments/assets/63ec7a39-e102-4e61-9f4e-6bd9a86ad1aa)
 
 ## Video tutorials available on YouTube
-Italian with english subtitles
-[!Grid_PRO Tutorials(https://www.youtube.com/watch?v=VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc)]
+Italian with english subtitles:
+https://www.youtube.com/watch?v=VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc
 
 # Introduction to Grid_PRO
 
