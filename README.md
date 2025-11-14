@@ -1,3 +1,6 @@
+
+![Copertina YT](https://github.com/user-attachments/assets/63ec7a39-e102-4e61-9f4e-6bd9a86ad1aa)
+
 # Introduction to Grid_PRO
 
 **Grid_PRO** is a comprehensive package of Grasshopper definitions developed for Rhinoceros, designed to assist users through the entire workflow of designing, analyzing, and generating fabrication-ready drawings for **active-bending timber gridshells**.
