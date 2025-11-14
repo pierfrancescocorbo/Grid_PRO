@@ -89,3 +89,7 @@ The user can bake the layouts into Rhinoceros.
     
     > Note on Dimensions: Due to a quirk in Grasshopper, baked dimensions (annotations) may appear illegible. The user must go into the Annotation Styles panel in Rhinoceros (Drafting tab) and adjust the Model Space Scale to make the dimension text and arrows the correct size.
     >
+
+## Video tutorials available on YouTube
+Italian with english subtitles
+https://www.youtube.com/watch?v=VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc
