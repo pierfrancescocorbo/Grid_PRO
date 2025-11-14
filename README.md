@@ -1,6 +1,10 @@
 
 ![Copertina YT](https://github.com/user-attachments/assets/63ec7a39-e102-4e61-9f4e-6bd9a86ad1aa)
 
+## Video tutorials available on YouTube
+Italian with english subtitles
+[![Grid_PRO Tutorials](https://img.youtube.com/vi/VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc/0.jpg)](https://www.youtube.com/watch?v=VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc)
+
 # Introduction to Grid_PRO
 
 **Grid_PRO** is a comprehensive package of Grasshopper definitions developed for Rhinoceros, designed to assist users through the entire workflow of designing, analyzing, and generating fabrication-ready drawings for **active-bending timber gridshells**.
@@ -89,7 +93,3 @@ The user can bake the layouts into Rhinoceros.
     
     > Note on Dimensions: Due to a quirk in Grasshopper, baked dimensions (annotations) may appear illegible. The user must go into the Annotation Styles panel in Rhinoceros (Drafting tab) and adjust the Model Space Scale to make the dimension text and arrows the correct size.
     >
-
-## Video tutorials available on YouTube
-Italian with english subtitles
-[![Grid_PRO Tutorials](https://img.youtube.com/vi/VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc/0.jpg)](https://www.youtube.com/watch?v=VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc)
