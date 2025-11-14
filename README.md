@@ -92,4 +92,4 @@ The user can bake the layouts into Rhinoceros.
 
 ## Video tutorials available on YouTube
 Italian with english subtitles
-https://www.youtube.com/watch?v=VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc
+[![Grid_PRO Tutorials](https://img.youtube.com/vi/VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc/0.jpg)](https://www.youtube.com/watch?v=VWgaY-i0iHQ&list=PLpUJHu84xzlo3qFtnYqij7nG_C9A3Nrkc)
